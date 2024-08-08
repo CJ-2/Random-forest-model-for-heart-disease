@@ -12,7 +12,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	2.	BMI:
+2.	BMI:
     
 	•	Description: Body Mass Index (BMI) of the individual, which is a measure of body fat based on height and weight.
 
@@ -20,7 +20,7 @@ Description:
 
 	•	Values: Continuous values, usually ranging from around 10 to 50.
 
-	4.	Smoking:
+4.	Smoking:
  	
 	•	Description: Indicates whether the individual currently smokes.
 
@@ -28,7 +28,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	6.	AlcoholDrinking:
+6.	AlcoholDrinking:
  	
 	•	Description: Indicates whether the individual drinks alcohol heavily.
 
@@ -36,7 +36,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	8.	Stroke:
+8.	Stroke:
 	
 	•	Description: Indicates whether the individual has had a stroke.
 
@@ -44,7 +44,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	10.	PhysicalHealth:
+10.	PhysicalHealth:
  	
 	•	Description: Represents the number of days the individual had poor physical health in the past 30 days.
 
@@ -52,7 +52,7 @@ Description:
 
 	•	Values: Continuous values, typically between 0 and 30.
 
-	12.	MentalHealth:
+12.	MentalHealth:
  	
 	•	Description: Represents the number of days the individual had poor mental health in the past 30 days.
 
@@ -60,7 +60,7 @@ Description:
 
 	•	Values: Continuous values, typically between 0 and 30.
 
-	14.	DiffWalking:
+14.	DiffWalking:
  	
 	•	Description: Indicates whether the individual has serious difficulty walking or climbing stairs.
 
@@ -68,7 +68,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	16.	Sex:
+16.	Sex:
  	
 	•	Description: Gender of the individual.
 
@@ -76,7 +76,7 @@ Description:
 
 	•	Values: Typically “Male” or “Female.”
 
-	18.	AgeCategory:
+18.	AgeCategory:
  	
 	•	Description: Age group of the individual.
 
@@ -84,7 +84,7 @@ Description:
 
 	•	Values: Age ranges such as “18-24,” “25-29,” “30-34,” etc.
 
-	20.	Race:
+20.	Race:
  	
 	•	Description: Self-reported race of the individual.
 
@@ -92,7 +92,7 @@ Description:
 
 	•	Values: Categories like “White,” “Black,” “Asian,” “Hispanic,” etc.
 
-	22.	Diabetic:
+22.	Diabetic:
      
 	•	Description: Indicates whether the individual has diabetes.
 
@@ -100,7 +100,7 @@ Description:
 
 	•	Values: Typically “Yes,” “No,” or “Pre-diabetic.”
 
-	24.	PhysicalActivity:
+24.	PhysicalActivity:
      
 	•	Description: Indicates whether the individual engages in physical activities or exercises outside of regular job duties.
 
@@ -108,7 +108,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	26.	GenHealth:
+26.	GenHealth:
  	
 	•	Description: Self-reported general health status of the individual.
 
@@ -116,7 +116,7 @@ Description:
 
 	•	Values: Categories like “Excellent,” “Very good,” “Good,” “Fair,” and “Poor.”
 
-	28.	SleepTime:
+28.	SleepTime:
  	
 	•	Description: Average hours of sleep per night reported by the individual.
 
@@ -124,7 +124,7 @@ Description:
 
 	•	Values: Continuous values, typically between 0 and 24.
 
-	30.	Asthma:
+30.	Asthma:
  	
 	•	Description: Indicates whether the individual has asthma.
 
@@ -132,7 +132,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	32.	KidneyDisease:
+32.	KidneyDisease:
  	
 	•	Description: Indicates whether the individual has kidney disease.
 
@@ -140,7 +140,7 @@ Description:
 
 	•	Values: Typically “Yes” or “No.”
 
-	34.	SkinCancer:
+34.	SkinCancer:
  	
 	•	Description: Indicates whether the individual has skin cancer.
 
